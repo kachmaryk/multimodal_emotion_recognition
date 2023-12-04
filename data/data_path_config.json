@@ -1,0 +1,20 @@
+{
+  "raw_data": "D:\\Projects\\masters_diploma\\data\\raw\\EmoReact",
+  "processed_data": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact",
+
+  "videos": "D:\\Projects\\masters_diploma\\data\\raw\\EmoReact\\videos",
+  "visual_features": "D:\\Projects\\masters_diploma\\data\\raw\\EmoReact\\visual_features",
+
+  "datasets": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets",
+  "datasets_videos": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets\\videos",
+  "datasets_visual_features": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets\\visual_features",
+
+  "images": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\images",
+  "datasets_images": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets\\images",
+
+  "audio": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\audio",
+  "datasets_audio": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets\\audio",
+
+  "audio_216k": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\audio_216k",
+  "datasets_audio_216k": "D:\\Projects\\masters_diploma\\data\\processed\\EmoReact\\datasets\\audio_216k"
+}

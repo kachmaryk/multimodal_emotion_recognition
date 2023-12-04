@@ -1,0 +1,13 @@
+/data/raw/EmoReact/
+/data/processed/EmoReact/
+/data_preparation/audio_data/datasets/
+/data_preparation/audio_data/notebooks/
+/data_preparation/img_data/datasets/
+/data_preparation/img_data/notebooks/
+/data_preparation/combined_modalities_data/datasets/
+/trainig_pipelines/audio_models/checkpoints/
+/trainig_pipelines/audio_models/wandb/
+/trainig_pipelines/image_models/checkpoints/
+/trainig_pipelines/image_models/wandb/
+/trainig_pipelines/combined_modalities_models/checkpoints/
+/trainig_pipelines/combined_modalities_models/wandb/
